@@ -1,0 +1,12 @@
+@charset "utf-8";
+body {
+font-family: proxima-nova, sans-serif;
+font-size: 100%;
+color:#151515;
+background-color:#fffaf0;
+font-weight:400;
+}
+h1 {
+font-family: skolar-pe, serif;
+font-weight:500;
+}
